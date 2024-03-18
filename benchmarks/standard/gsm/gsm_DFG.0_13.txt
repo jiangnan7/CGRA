@@ -1,0 +1,101 @@
+vertex or4.in0
+vertex add0.out0
+vertex add0
+vertex add0.in1
+vertex lshr9.in0
+vertex or4.in1
+vertex lshr9
+vertex lshr9.in1
+vertex shl4.in1
+vertex shl4.out0
+vertex shl4.in0
+vertex lshr7
+vertex lshr7.out0
+vertex lshr7.in0
+vertex and8.in0
+vertex lshr11
+vertex add0.in0
+vertex and8.in1
+vertex lshr11.in0
+vertex lshr7.in1
+vertex and2
+vertex shl4
+vertex lshr11.in1
+vertex lshr0.in0
+vertex add5.in1
+vertex lshr11.out0
+vertex and12
+vertex and12.in0
+vertex and2.in0
+vertex add5
+vertex lshr0.in1
+vertex and12.in1
+vertex and12.out0
+vertex lshr0
+vertex or4.out0
+vertex and8
+vertex or3.out0
+vertex and8.out0
+vertex add5.out0
+vertex or4
+vertex and10.in1
+vertex add5.in0
+vertex lshr9.out0
+vertex and10
+vertex and10.in0
+vertex or3.in0
+vertex and10.out0
+vertex and2.in1
+vertex lshr0.out0
+vertex or3
+vertex or3.in1
+vertex and2.out0
+net or4.in0 or4
+net add0.out0 lshr0.in0
+net add0.out0 and2.in0
+net add0 add0.out0
+net add0.in1 add0
+net lshr9.in0 lshr9
+net or4.in1 or4
+net lshr9 lshr9.out0
+net lshr9.in1 lshr9
+net shl4.in1 shl4
+net shl4.out0 and10.in0
+net shl4.in0 shl4
+net lshr7 lshr7.out0
+net lshr7.out0 or3.in1
+net lshr7.in0 lshr7
+net and8.in0 and8
+net lshr11 lshr11.out0
+net add0.in0 add0
+net and8.in1 and8
+net lshr11.in0 lshr11
+net lshr7.in1 lshr7
+net and2 and2.out0
+net shl4 shl4.out0
+net lshr11.in1 lshr11
+net lshr0.in0 lshr0
+net add5.in1 add5
+net lshr11.out0 and12.in0
+net and12 and12.out0
+net and12.in0 and12
+net and2.in0 and2
+net add5 add5.out0
+net lshr0.in1 lshr0
+net and12.in1 and12
+net lshr0 lshr0.out0
+net and8 and8.out0
+net and8.out0 or3.in0
+net add5.out0 lshr7.in0
+net add5.out0 shl4.in0
+net or4 or4.out0
+net and10.in1 and10
+net add5.in0 add5
+net lshr9.out0 or4.in1
+net and10 and10.out0
+net and10.in0 and10
+net or3.in0 or3
+net and10.out0 or4.in0
+net and2.in1 and2
+net or3 or3.out0
+net or3.in1 or3

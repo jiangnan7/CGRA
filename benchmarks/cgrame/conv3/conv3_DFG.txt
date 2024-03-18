@@ -1,0 +1,228 @@
+vertex add13.in0
+    attr optype str add.in0
+vertex ALU9.out0
+    attr optype str alu.out0
+vertex mul3.in0
+    attr optype str mul.in0
+vertex mul0.in1
+    attr optype str mul.in1
+vertex ALU2.out0
+    attr optype str alu.out0
+vertex const16
+    attr optype str const
+vertex mul7.out0
+    attr optype str mul.out0
+vertex const22.out0
+    attr optype str const.out0
+vertex mul10.in1
+    attr optype str mul.in1
+vertex add13.in1
+    attr optype str add.in1
+vertex mul0
+    attr optype str mul
+vertex add12
+    attr optype str add
+vertex mul0.in0
+    attr optype str mul.in0
+vertex add20.in1
+    attr optype str add.in1
+vertex store23.in0
+    attr optype str store.in0
+vertex const1
+    attr optype str const
+vertex const6.out0
+    attr optype str const.out0
+vertex const22
+    attr optype str const
+vertex ALU9.in0
+    attr optype str alu.in0
+vertex store23.out0
+    attr optype str store.out0
+vertex ALU17.out0
+    attr optype str alu.out0
+vertex add5.out0
+    attr optype str add.out0
+vertex const19
+    attr optype str const
+vertex mul18
+    attr optype str mul
+vertex mul21
+    attr optype str mul
+vertex add20.out0
+    attr optype str add.out0
+vertex const16.out0
+    attr optype str const.out0
+vertex mul3.out0
+    attr optype str mul.out0
+vertex const8
+    attr optype str const
+vertex const19.out0
+    attr optype str const.out0
+vertex mul15.out0
+    attr optype str mul.out0
+vertex add12.out0
+    attr optype str add.out0
+vertex mul21.in1
+    attr optype str mul.in1
+vertex mul15.in0
+    attr optype str mul.in0
+vertex const1.out0
+    attr optype str const.out0
+vertex add12.in0
+    attr optype str add.in0
+vertex mul3
+    attr optype str mul
+vertex const4
+    attr optype str const
+vertex const11
+    attr optype str const
+vertex mul3.in1
+    attr optype str mul.in1
+vertex const14
+    attr optype str const
+vertex mul10.in0
+    attr optype str mul.in0
+vertex add13
+    attr optype str add
+vertex mul7.in0
+    attr optype str mul.in0
+vertex const8.out0
+    attr optype str const.out0
+vertex add5
+    attr optype str add
+vertex mul10.out0
+    attr optype str mul.out0
+vertex const11.out0
+    attr optype str const.out0
+vertex ALU17
+    attr optype str alu
+vertex add5.in1
+    attr optype str add.in1
+vertex mul21.in0
+    attr optype str mul.in0
+vertex mul7.in1
+    attr optype str mul.in1
+vertex ALU2.in0
+    attr optype str alu.in0
+vertex ALU2
+    attr optype str alu
+vertex const4.out0
+    attr optype str const.out0
+vertex mul10
+    attr optype str mul
+vertex add13.out0
+    attr optype str add.out0
+vertex mul18.in1
+    attr optype str mul.in1
+vertex mul18.out0
+    attr optype str mul.out0
+vertex mul18.in0
+    attr optype str mul.in0
+vertex const6
+    attr optype str const
+vertex add5.in0
+    attr optype str add.in0
+vertex add20
+    attr optype str add
+vertex add20.in0
+    attr optype str add.in0
+vertex ALU17.in0
+    attr optype str alu.in0
+vertex const14.out0
+    attr optype str const.out0
+vertex mul15
+    attr optype str mul
+vertex mul7
+    attr optype str mul
+vertex ALU9
+    attr optype str alu
+vertex store23.in1
+    attr optype str store.in1
+vertex mul21.out0
+    attr optype str mul.out0
+vertex mul0.out0
+    attr optype str mul.out0
+vertex store23
+    attr optype str store
+vertex add12.in1
+    attr optype str add.in1
+vertex mul15.in1
+    attr optype str mul.in1
+edge ALU2.out0 mul3.in0
+edge mul3.out0 add12.in0
+edge add5.out0 mul7.in0
+edge add5.out0 mul0.in0
+edge add5.out0 add5.in0
+edge add5.out0 add13.in0
+edge add5.out0 mul21.in0
+edge ALU9.out0 mul10.in0
+edge mul10.out0 add12.in1
+edge add12.out0 add20.in0
+edge add13.out0 mul15.in0
+edge ALU17.out0 mul18.in0
+edge mul18.out0 add20.in1
+edge add20.out0 store23.in0
+edge const1.out0 mul0.in1
+edge mul0.out0 ALU2.in0
+edge const4.out0 mul3.in1
+edge const6.out0 add5.in1
+edge const8.out0 mul7.in1
+edge mul7.out0 ALU9.in0
+edge const11.out0 mul10.in1
+edge const14.out0 add13.in1
+edge const16.out0 mul15.in1
+edge mul15.out0 ALU17.in0
+edge const19.out0 mul18.in1
+edge const22.out0 mul21.in1
+edge mul21.out0 store23.in1
+edge add13.in0 add13
+edge ALU9 ALU9.out0
+edge mul3.in0 mul3
+edge mul0.in1 mul0
+edge ALU2 ALU2.out0
+edge mul7 mul7.out0
+edge const22 const22.out0
+edge mul10.in1 mul10
+edge add13.in1 add13
+edge mul0.in0 mul0
+edge add20.in1 add20
+edge store23.in0 store23
+edge const6 const6.out0
+edge ALU9.in0 ALU9
+edge store23 store23.out0
+edge ALU17 ALU17.out0
+edge add5 add5.out0
+edge add20 add20.out0
+edge const16 const16.out0
+edge mul3 mul3.out0
+edge const19 const19.out0
+edge mul15 mul15.out0
+edge add12 add12.out0
+edge mul21.in1 mul21
+edge mul15.in0 mul15
+edge const1 const1.out0
+edge add12.in0 add12
+edge mul3.in1 mul3
+edge mul10.in0 mul10
+edge mul7.in0 mul7
+edge const8 const8.out0
+edge mul10 mul10.out0
+edge const11 const11.out0
+edge add5.in1 add5
+edge mul21.in0 mul21
+edge mul7.in1 mul7
+edge ALU2.in0 ALU2
+edge const4 const4.out0
+edge add13 add13.out0
+edge mul18.in1 mul18
+edge mul18 mul18.out0
+edge mul18.in0 mul18
+edge add5.in0 add5
+edge add20.in0 add20
+edge ALU17.in0 ALU17
+edge const14 const14.out0
+edge store23.in1 store23
+edge mul21 mul21.out0
+edge mul0 mul0.out0
+edge add12.in1 add12
+edge mul15.in1 mul15

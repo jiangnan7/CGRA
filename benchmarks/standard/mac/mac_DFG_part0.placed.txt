@@ -1,0 +1,14 @@
+add1.in1 ARI0.ADD3.in1
+load3.in0 MEB0.MEM1.in0
+add1.in0 ARI0.ADD3.in0
+load3.out0 MEB0.MEM1.out0
+mul0.in1 ARI0.MUL0.in1
+add1 ARI0.ADD3
+load5.in0 MEB0.MEM4.in0
+load3 MEB0.MEM1
+load5 MEB0.MEM4
+mul0 ARI0.MUL0
+load5.out0 MEB0.MEM4.out0
+mul0.in0 ARI0.MUL0.in0
+mul0.out0 ARI0.MUL0.out0
+add1.out0 ARI0.ADD3.out0

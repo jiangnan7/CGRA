@@ -1,0 +1,88 @@
+IN0 INPUT INPUT inputs in0 outputs out0
+IN1 INPUT INPUT inputs in0 outputs out0
+IN2 INPUT INPUT inputs in0 outputs out0
+IN3 INPUT INPUT inputs in0 outputs out0
+IN4 INPUT INPUT inputs in0 outputs out0
+IN5 INPUT INPUT inputs in0 outputs out0
+IN6 INPUT INPUT inputs in0 outputs out0
+IN7 INPUT INPUT inputs in0 outputs out0
+IN8 INPUT INPUT inputs in0 outputs out0
+IN9 INPUT INPUT inputs in0 outputs out0
+IN10 INPUT INPUT inputs in0 outputs out0
+IN11 INPUT INPUT inputs in0 outputs out0
+IN12 INPUT INPUT inputs in0 outputs out0
+IN13 INPUT INPUT inputs in0 outputs out0
+IN14 INPUT INPUT inputs in0 outputs out0
+IN15 INPUT INPUT inputs in0 outputs out0
+IN16 INPUT INPUT inputs in0 outputs out0
+IN17 INPUT INPUT inputs in0 outputs out0
+IN18 INPUT INPUT inputs in0 outputs out0
+IN19 INPUT INPUT inputs in0 outputs out0
+IN20 INPUT INPUT inputs in0 outputs out0
+IN21 INPUT INPUT inputs in0 outputs out0
+IN22 INPUT INPUT inputs in0 outputs out0
+IN23 INPUT INPUT inputs in0 outputs out0
+IN24 INPUT INPUT inputs in0 outputs out0
+IN25 INPUT INPUT inputs in0 outputs out0
+IN26 INPUT INPUT inputs in0 outputs out0
+IN27 INPUT INPUT inputs in0 outputs out0
+IN28 INPUT INPUT inputs in0 outputs out0
+IN29 INPUT INPUT inputs in0 outputs out0
+IN30 INPUT INPUT inputs in0 outputs out0
+IN31 INPUT INPUT inputs in0 outputs out0
+OUT0 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT1 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT2 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT3 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT4 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT5 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT6 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT7 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT8 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT9 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT10 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT11 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT12 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT13 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT14 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT15 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT16 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT17 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT18 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT19 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT20 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT21 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT22 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT23 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT24 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT25 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT26 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT27 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT28 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT29 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT30 OUTPUT OUTPUT inputs in0 in1 outputs out0
+OUT31 OUTPUT OUTPUT inputs in0 in1 outputs out0
+block0.ALU0 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU1 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU2 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU3 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU4 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU5 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU6 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU7 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU8 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU9 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU10 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU11 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU12 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU13 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU14 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU15 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU16 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU17 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU18 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU19 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU20 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU21 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU22 ALU ALU inputs in0 in1 in2 outputs out0
+block0.ALU23 ALU ALU inputs in0 in1 in2 outputs out0

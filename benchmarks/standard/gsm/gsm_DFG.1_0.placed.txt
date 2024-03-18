@@ -1,0 +1,4 @@
+add21.out0 ADD2.out0
+add21.in0 ADD2.in0
+add21 ADD2
+add21.in1 ADD2.in1

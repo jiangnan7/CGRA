@@ -1,0 +1,24 @@
+const16 INPUT
+mul0 MUL ALU
+add12 ADD ALU
+const1 INPUT
+const22 INPUT
+const19 INPUT
+mul18 MUL ALU
+mul21 MUL ALU
+const8 INPUT
+mul3 MUL ALU
+const4 INPUT
+const11 INPUT
+const14 INPUT
+add13 ADD ALU
+add5 ADD ALU
+ALU17 ALU
+ALU2 ALU
+mul10 MUL ALU
+const6 INPUT
+add20 ADD ALU
+mul15 MUL ALU
+mul7 MUL ALU
+ALU9 ALU
+store23 OUTPUT
