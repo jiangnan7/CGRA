@@ -1,0 +1,27 @@
+attr __file__ str ./benchmarks/standard/gsm/gsm_DFG.1_0.txt
+attr __name__ str ./benchmarks/standard/gsm/gsm_DFG.1_0.txt
+vertex __inserted_outport_0.out0
+vertex __inserted_outport_0
+vertex __inserted_inport_1.out0
+vertex __inserted_inport_1
+vertex __inserted_inport_0.out0
+vertex __inserted_outport_0.in0
+vertex __inserted_inport_0.in0
+vertex __inserted_inport_1.in0
+vertex add21.in1
+vertex add21
+vertex __inserted_inport_0
+vertex add21.in0
+vertex add21.out0
+net __inserted_outport_0 __inserted_outport_0.out0
+net __inserted_inport_1.out0 add21.in1
+net __inserted_inport_1 __inserted_inport_1.out0
+net __inserted_inport_0.out0 add21.in0
+net __inserted_outport_0.in0 __inserted_outport_0
+net __inserted_inport_0.in0 __inserted_inport_0
+net __inserted_inport_1.in0 __inserted_inport_1
+net add21.in1 add21
+net add21 add21.out0
+net __inserted_inport_0 __inserted_inport_0.out0
+net add21.in0 add21
+net add21.out0 __inserted_outport_0.in0

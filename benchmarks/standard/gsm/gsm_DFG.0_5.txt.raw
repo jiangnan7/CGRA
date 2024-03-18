@@ -1,0 +1,234 @@
+attr __file__ str ./benchmarks/standard/gsm/gsm_DFG.0_5.txt
+attr __name__ str ./benchmarks/standard/gsm/gsm_DFG.0_5.txt
+vertex __inserted_outport_5.out0
+vertex __inserted_outport_4.in0
+vertex __inserted_outport_4
+vertex __inserted_outport_2.in0
+vertex __inserted_outport_1.in0
+vertex __inserted_inport_13.out0
+vertex __inserted_inport_13
+vertex __inserted_inport_11
+vertex __inserted_outport_3.out0
+vertex __inserted_inport_9
+vertex __inserted_outport_3
+vertex __inserted_inport_8.in0
+vertex __inserted_outport_1.out0
+vertex __inserted_outport_0.out0
+vertex __inserted_inport_7.out0
+vertex __inserted_inport_7
+vertex __inserted_inport_9.out0
+vertex __inserted_inport_8.out0
+vertex __inserted_inport_6.out0
+vertex __inserted_inport_6.in0
+vertex __inserted_inport_6
+vertex __inserted_inport_11.out0
+vertex __inserted_inport_5.out0
+vertex __inserted_outport_3.in0
+vertex __inserted_inport_11.in0
+vertex __inserted_inport_4.out0
+vertex __inserted_outport_5.in0
+vertex __inserted_inport_3.out0
+vertex __inserted_inport_3.in0
+vertex __inserted_inport_3
+vertex __inserted_outport_2.out0
+vertex __inserted_outport_0.in0
+vertex __inserted_inport_2.in0
+vertex __inserted_inport_12.out0
+vertex __inserted_inport_2
+vertex __inserted_outport_5
+vertex __inserted_inport_1.in0
+vertex and56
+vertex and25
+vertex lshr20.in0
+vertex __inserted_inport_12
+vertex and1.in1
+vertex __inserted_inport_4
+vertex or0
+vertex and1.out0
+vertex __inserted_inport_10.in0
+vertex __inserted_inport_8
+vertex lshr47
+vertex lshr26.out0
+vertex __inserted_inport_1
+vertex lshr55
+vertex lshr55.in1
+vertex and21.in0
+vertex __inserted_inport_5
+vertex lshr47.in1
+vertex __inserted_inport_9.in0
+vertex and48.out0
+vertex __inserted_inport_0.in0
+vertex __inserted_inport_4.in0
+vertex and48.in0
+vertex shl9
+vertex __inserted_inport_1.out0
+vertex __inserted_inport_0
+vertex __inserted_outport_0
+vertex lshr26
+vertex or9.in1
+vertex and48.in1
+vertex or0.out0
+vertex __inserted_inport_10
+vertex and25.in0
+vertex or9.in0
+vertex or9.out0
+vertex lshr24
+vertex or9
+vertex lshr24.out0
+vertex lshr20
+vertex shl9.out0
+vertex and1
+vertex and21.in1
+vertex and25.out0
+vertex lshr20.in1
+vertex __inserted_outport_1
+vertex __inserted_inport_13.in0
+vertex __inserted_inport_12.in0
+vertex and27.out0
+vertex shl9.in0
+vertex __inserted_inport_2.out0
+vertex and56.out0
+vertex __inserted_outport_4.out0
+vertex __inserted_inport_7.in0
+vertex and25.in1
+vertex and56.in0
+vertex lshr20.out0
+vertex lshr24.in1
+vertex lshr26.in1
+vertex lshr24.in0
+vertex and21
+vertex and27.in1
+vertex lshr47.out0
+vertex and27.in0
+vertex and56.in1
+vertex or0.in1
+vertex __inserted_outport_2
+vertex and48
+vertex lshr47.in0
+vertex shl9.in1
+vertex __inserted_inport_10.out0
+vertex or0.in0
+vertex and1.in0
+vertex lshr55.in0
+vertex and27
+vertex __inserted_inport_5.in0
+vertex lshr26.in0
+vertex lshr55.out0
+vertex and21.out0
+vertex __inserted_inport_0.out0
+net __inserted_outport_4.in0 __inserted_outport_4
+net __inserted_outport_4 __inserted_outport_4.out0
+net __inserted_outport_2.in0 __inserted_outport_2
+net __inserted_outport_1.in0 __inserted_outport_1
+net __inserted_inport_13.out0 and1.in1
+net __inserted_inport_13 __inserted_inport_13.out0
+net __inserted_inport_11 __inserted_inport_11.out0
+net __inserted_inport_9 __inserted_inport_9.out0
+net __inserted_outport_3 __inserted_outport_3.out0
+net __inserted_inport_8.in0 __inserted_inport_8
+net __inserted_inport_7.out0 lshr20.in1
+net __inserted_inport_7 __inserted_inport_7.out0
+net __inserted_inport_9.out0 lshr26.in1
+net __inserted_inport_8.out0 lshr47.in1
+net __inserted_inport_8.out0 lshr55.in1
+net __inserted_inport_6.out0 shl9.in0
+net __inserted_inport_6.in0 __inserted_inport_6
+net __inserted_inport_6 __inserted_inport_6.out0
+net __inserted_inport_11.out0 lshr47.in0
+net __inserted_inport_5.out0 and56.in1
+net __inserted_inport_5.out0 and27.in1
+net __inserted_inport_5.out0 lshr24.in1
+net __inserted_inport_5.out0 and21.in1
+net __inserted_inport_5.out0 and48.in1
+net __inserted_outport_3.in0 __inserted_outport_3
+net __inserted_inport_11.in0 __inserted_inport_11
+net __inserted_inport_4.out0 shl9.in1
+net __inserted_outport_5.in0 __inserted_outport_5
+net __inserted_inport_3.out0 lshr20.in0
+net __inserted_inport_3.in0 __inserted_inport_3
+net __inserted_inport_3 __inserted_inport_3.out0
+net __inserted_outport_0.in0 __inserted_outport_0
+net __inserted_inport_2.in0 __inserted_inport_2
+net __inserted_inport_12.out0 or0.in1
+net __inserted_inport_2 __inserted_inport_2.out0
+net __inserted_outport_5 __inserted_outport_5.out0
+net __inserted_inport_1.in0 __inserted_inport_1
+net and56 and56.out0
+net and25 and25.out0
+net lshr20.in0 lshr20
+net __inserted_inport_12 __inserted_inport_12.out0
+net and1.in1 and1
+net __inserted_inport_4 __inserted_inport_4.out0
+net or0 or0.out0
+net and1.out0 or0.in0
+net __inserted_inport_10.in0 __inserted_inport_10
+net __inserted_inport_8 __inserted_inport_8.out0
+net lshr47 lshr47.out0
+net lshr26.out0 and27.in0
+net __inserted_inport_1 __inserted_inport_1.out0
+net lshr55 lshr55.out0
+net lshr55.in1 lshr55
+net and21.in0 and21
+net __inserted_inport_5 __inserted_inport_5.out0
+net lshr47.in1 lshr47
+net __inserted_inport_9.in0 __inserted_inport_9
+net and48.out0 __inserted_outport_0.in0
+net __inserted_inport_0.in0 __inserted_inport_0
+net __inserted_inport_4.in0 __inserted_inport_4
+net and48.in0 and48
+net shl9 shl9.out0
+net __inserted_inport_1.out0 and25.in1
+net __inserted_inport_0 __inserted_inport_0.out0
+net __inserted_outport_0 __inserted_outport_0.out0
+net lshr26 lshr26.out0
+net or9.in1 or9
+net and48.in1 and48
+net or0.out0 __inserted_outport_1.in0
+net __inserted_inport_10 __inserted_inport_10.out0
+net and25.in0 and25
+net or9.in0 or9
+net or9.out0 __inserted_outport_2.in0
+net lshr24 lshr24.out0
+net or9 or9.out0
+net lshr24.out0 or9.in1
+net lshr20 lshr20.out0
+net shl9.out0 and25.in0
+net and1 and1.out0
+net and21.in1 and21
+net and25.out0 or9.in0
+net lshr20.in1 lshr20
+net __inserted_outport_1 __inserted_outport_1.out0
+net __inserted_inport_13.in0 __inserted_inport_13
+net __inserted_inport_12.in0 __inserted_inport_12
+net and27.out0 __inserted_outport_3.in0
+net shl9.in0 shl9
+net __inserted_inport_2.out0 and1.in0
+net and56.out0 __inserted_outport_4.in0
+net __inserted_inport_7.in0 __inserted_inport_7
+net and25.in1 and25
+net and56.in0 and56
+net lshr20.out0 and21.in0
+net lshr24.in1 lshr24
+net lshr26.in1 lshr26
+net lshr24.in0 lshr24
+net and21 and21.out0
+net and27.in1 and27
+net lshr47.out0 and48.in0
+net and27.in0 and27
+net and56.in1 and56
+net or0.in1 or0
+net __inserted_outport_2 __inserted_outport_2.out0
+net and48 and48.out0
+net lshr47.in0 lshr47
+net shl9.in1 shl9
+net __inserted_inport_10.out0 lshr55.in0
+net or0.in0 or0
+net and1.in0 and1
+net lshr55.in0 lshr55
+net and27 and27.out0
+net __inserted_inport_5.in0 __inserted_inport_5
+net lshr26.in0 lshr26
+net lshr55.out0 and56.in0
+net and21.out0 __inserted_outport_5.in0
+net __inserted_inport_0.out0 lshr26.in0
+net __inserted_inport_0.out0 lshr24.in0

@@ -1,0 +1,7 @@
+rownum 4
+colnum 4
+alunum 16
+mulnum 0
+addnum 0
+subnum 0
+benchmark resnet1 ./benchmarks/DSAGEN/resnet1/resnet1.dot

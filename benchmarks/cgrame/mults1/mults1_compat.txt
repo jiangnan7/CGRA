@@ -1,0 +1,31 @@
+add28 ADD ALU
+mul10 MUL ALU
+add19 ADD ALU
+add26 ADD ALU
+load2 INPUT
+const11 INPUT
+mul7 MUL ALU
+load9 INPUT
+const4 INPUT
+const20 INPUT
+mul0 MUL ALU
+const18 INPUT
+add27 ADD ALU
+const1 INPUT
+const15 INPUT
+add5 ADD ALU
+load16 INPUT
+const13 INPUT
+mul24 MUL ALU
+mul17 MUL ALU
+output30 OUTPUT
+load23 INPUT
+const22 INPUT
+mul21 MUL ALU
+mul3 MUL ALU
+add12 ADD ALU
+const6 INPUT
+add29 ADD ALU
+mul14 MUL ALU
+const8 INPUT
+const25 INPUT

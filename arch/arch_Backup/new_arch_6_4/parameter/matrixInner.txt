@@ -1,0 +1,38 @@
+List(
+	scala.collection.mutable.Map(
+		List(8, 0) ->List(List(8, 0, 2), List(8, 1, 2), List(8, 2, 1), List(8, 3, 3), List(8, 4, 3), List(8, 5, 2), List(8, 6, 3), List(8, 7, 2), List(8, 8, 2), List(8, 9, 1), List(8, 10, 1), List(8, 11, 2), List(8, 12, 3), List(8, 13, 2), List(8, 14, 1), List(8, 15, 1), List(8, 16, 1), List(8, 17, 1), List(8, 18, 1), List(8, 19, 1)), 
+		List(8, 1) ->List(List(8, 20, 1), List(8, 21, 1), List(8, 22, 1), List(8, 7, 2), List(8, 4, 2), List(8, 3, 3), List(8, 1, 2), List(8, 9, 2), List(8, 6, 2), List(8, 11, 2), List(8, 5, 2), List(8, 19, 1), List(8, 17, 1), List(8, 13, 2), List(8, 18, 1), List(8, 12, 2), List(8, 8, 2), List(8, 16, 2), List(8, 10, 1)), 
+		List(8, 2) ->List(List(8, 1, 2), List(8, 0, 1), List(8, 14, 2), List(8, 5, 2), List(8, 8, 2), List(8, 12, 1), List(8, 19, 1), List(8, 16, 2), List(8, 6, 2), List(8, 9, 2), List(8, 10, 1), List(8, 15, 1), List(8, 18, 1), List(8, 13, 2), List(8, 17, 1), List(8, 3, 2), List(8, 4, 2), List(8, 7, 2), List(8, 11, 2), List(8, 22, 1)), 
+		List(8, 3) ->List(List(8, 21, 1), List(8, 20, 1), List(8, 15, 1), List(8, 4, 2), List(8, 3, 2), List(8, 11, 2), List(8, 6, 2), List(8, 9, 1), List(8, 7, 2), List(8, 17, 1), List(8, 8, 1), List(8, 12, 1), List(8, 5, 1), List(8, 10, 1), List(8, 18, 2), List(8, 14, 1), List(8, 16, 2), List(8, 13, 2), List(8, 23, 1)) 
+	), 
+	scala.collection.mutable.Map(
+		List(8, 0) ->List(List(8, 0, 2), List(8, 1, 2), List(8, 2, 2), List(8, 3, 1), List(8, 4, 1), List(8, 5, 2), List(8, 6, 2), List(8, 7, 1), List(8, 8, 1), List(8, 9, 1), List(8, 10, 2), List(8, 11, 1), List(8, 12, 1), List(8, 13, 3), List(8, 14, 2), List(8, 15, 1), List(8, 16, 1)), 
+		List(8, 1) ->List(List(8, 17, 1), List(8, 4, 2), List(8, 18, 1), List(8, 19, 1), List(8, 5, 2), List(8, 8, 2), List(8, 14, 2), List(8, 15, 1), List(8, 13, 2), List(8, 10, 3), List(8, 20, 1), List(8, 2, 1), List(8, 7, 1), List(8, 6, 1), List(8, 12, 1), List(8, 16, 1), List(8, 21, 1), List(8, 1, 1), List(8, 9, 1)), 
+		List(8, 2) ->List(List(8, 0, 1), List(8, 1, 2), List(8, 22, 1), List(8, 21, 1), List(8, 9, 1), List(8, 13, 1), List(8, 15, 1), List(8, 7, 1), List(8, 10, 1), List(8, 6, 2), List(8, 16, 1), List(8, 2, 1), List(8, 11, 1), List(8, 20, 1), List(8, 12, 1), List(8, 23, 1), List(8, 14, 1), List(8, 19, 1), List(8, 5, 1), List(8, 8, 1)), 
+		List(8, 3) ->List(List(8, 17, 1), List(8, 4, 1), List(8, 20, 1), List(8, 14, 1), List(8, 10, 1), List(8, 13, 1), List(8, 8, 1), List(8, 23, 1), List(8, 5, 1), List(8, 7, 1), List(8, 11, 1), List(8, 6, 1), List(8, 12, 1), List(8, 16, 1), List(8, 19, 1)) 
+	), 
+	scala.collection.mutable.Map(
+		List(8, 0) ->List(List(8, 0, 1), List(8, 1, 1), List(8, 2, 2), List(8, 3, 1), List(8, 4, 2), List(8, 5, 1), List(8, 6, 2), List(8, 7, 1), List(8, 8, 1), List(8, 9, 1), List(8, 10, 1), List(8, 11, 2), List(8, 12, 2), List(8, 13, 2), List(8, 14, 1), List(8, 15, 1), List(8, 16, 1), List(8, 17, 1)), 
+		List(8, 1) ->List(List(8, 18, 2), List(8, 19, 1), List(8, 14, 1), List(8, 16, 2), List(8, 5, 2), List(8, 9, 2), List(8, 13, 2), List(8, 20, 1), List(8, 1, 2), List(8, 17, 2), List(8, 11, 1), List(8, 7, 2), List(8, 6, 2), List(8, 2, 1), List(8, 12, 1), List(8, 15, 2), List(8, 8, 2), List(8, 4, 3), List(8, 10, 1)), 
+		List(8, 2) ->List(List(8, 0, 1), List(8, 1, 2), List(8, 8, 2), List(8, 17, 1), List(8, 12, 1), List(8, 4, 2), List(8, 13, 2), List(8, 9, 2), List(8, 11, 1), List(8, 5, 1), List(8, 7, 1), List(8, 20, 1), List(8, 15, 1)), 
+		List(8, 3) ->List(List(8, 18, 1), List(8, 19, 1), List(8, 20, 2), List(8, 10, 1), List(8, 13, 1), List(8, 12, 1), List(8, 2, 1), List(8, 15, 1), List(8, 5, 1), List(8, 4, 1), List(8, 6, 1), List(8, 7, 1), List(8, 17, 1), List(8, 16, 1), List(8, 0, 1), List(8, 11, 1), List(8, 9, 1)) 
+	), 
+	scala.collection.mutable.Map(
+		List(8, 0) ->List(List(8, 0, 1), List(8, 1, 1), List(8, 2, 2), List(8, 3, 1), List(8, 4, 2), List(8, 5, 2), List(8, 6, 2), List(8, 7, 1), List(8, 8, 1), List(8, 9, 2), List(8, 10, 1), List(8, 11, 1), List(8, 12, 2), List(8, 13, 1)), 
+		List(8, 1) ->List(List(8, 14, 1), List(8, 5, 2), List(8, 13, 1), List(8, 10, 2), List(8, 7, 2), List(8, 4, 1), List(8, 9, 2), List(8, 1, 2), List(8, 2, 1), List(8, 12, 2), List(8, 6, 1), List(8, 15, 1), List(8, 8, 1), List(8, 16, 1), List(8, 17, 1), List(8, 3, 1)), 
+		List(8, 2) ->List(List(8, 0, 1), List(8, 1, 2), List(8, 18, 1), List(8, 11, 1), List(8, 4, 1), List(8, 7, 1), List(8, 9, 2), List(8, 10, 1), List(8, 14, 1), List(8, 12, 3), List(8, 2, 1), List(8, 15, 1), List(8, 8, 2), List(8, 17, 1), List(8, 6, 1), List(8, 16, 1)), 
+		List(8, 3) ->List(List(8, 14, 1), List(8, 5, 1), List(8, 17, 1), List(8, 15, 1), List(8, 12, 1), List(8, 4, 2), List(8, 2, 1), List(8, 6, 1), List(8, 16, 1), List(8, 8, 1), List(8, 7, 1), List(8, 10, 2), List(8, 0, 1), List(8, 13, 1), List(8, 11, 1), List(8, 9, 1)) 
+	), 
+	scala.collection.mutable.Map(
+		List(8, 0) ->List(List(8, 0, 1), List(8, 1, 2), List(8, 2, 2), List(8, 3, 1), List(8, 4, 2), List(8, 5, 2), List(8, 6, 2), List(8, 7, 1), List(8, 8, 1), List(8, 9, 1), List(8, 10, 1)), 
+		List(8, 1) ->List(List(8, 11, 1), List(8, 8, 2), List(8, 12, 1), List(8, 10, 2), List(8, 7, 2), List(8, 4, 2), List(8, 9, 1), List(8, 1, 1), List(8, 13, 1), List(8, 5, 1), List(8, 2, 1), List(8, 14, 1)), 
+		List(8, 2) ->List(List(8, 0, 1), List(8, 1, 2), List(8, 13, 1), List(8, 6, 2), List(8, 7, 1), List(8, 14, 1), List(8, 4, 1), List(8, 15, 1), List(8, 2, 1), List(8, 10, 1)), 
+		List(8, 3) ->List(List(8, 11, 1), List(8, 8, 1), List(8, 5, 1), List(8, 9, 1), List(8, 7, 1), List(8, 14, 1), List(8, 2, 1), List(8, 10, 1), List(8, 6, 1), List(8, 4, 1), List(8, 13, 1), List(8, 3, 1), List(8, 12, 1), List(8, 0, 1), List(8, 16, 1)) 
+	), 
+	scala.collection.mutable.Map(
+		List(8, 0) ->List(List(8, 0, 2), List(8, 1, 1), List(8, 2, 1), List(8, 3, 2), List(8, 4, 1), List(8, 5, 2), List(8, 6, 2), List(8, 7, 2), List(8, 8, 1), List(8, 9, 1), List(8, 10, 1), List(8, 11, 2), List(8, 12, 1), List(8, 13, 1), List(8, 14, 1), List(8, 15, 2), List(8, 16, 1), List(8, 17, 1), List(8, 18, 1)), 
+		List(8, 1) ->List(List(8, 19, 1), List(8, 5, 2), List(8, 20, 1), List(8, 4, 2), List(8, 7, 1), List(8, 10, 1), List(8, 15, 1), List(8, 11, 1), List(8, 1, 1), List(8, 16, 1), List(8, 18, 1), List(8, 14, 1), List(8, 3, 1), List(8, 17, 1)), 
+		List(8, 2) ->List(List(8, 0, 1), List(8, 1, 2), List(8, 21, 1), List(8, 6, 2), List(8, 8, 1), List(8, 9, 1), List(8, 10, 1), List(8, 19, 1), List(8, 16, 1), List(8, 4, 1), List(8, 22, 1), List(8, 13, 1)), 
+		List(8, 3) ->List(List(8, 5, 1), List(8, 19, 1), List(8, 7, 1), List(8, 16, 1), List(8, 8, 1), List(8, 3, 1), List(8, 17, 1), List(8, 0, 2), List(8, 11, 1), List(8, 10, 1), List(8, 9, 1), List(8, 4, 1)) 
+	) 
+), 

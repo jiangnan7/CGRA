@@ -1,0 +1,284 @@
+vertex N39
+    attr optype str output
+vertex N14.out0
+    attr optype str mul.out0
+vertex N19.in1
+    attr optype str add.in1
+vertex N11.in0
+    attr optype str mul.in0
+vertex N8.in0
+    attr optype str mul.in0
+vertex N44
+    attr optype str input
+vertex N17.in1
+    attr optype str add.in1
+vertex N19.out0
+    attr optype str add.out0
+vertex N4.out0
+    attr optype str input.out0
+vertex N14
+    attr optype str mul
+vertex N12.in0
+    attr optype str mul.in0
+vertex N41
+    attr optype str input
+vertex N0
+    attr optype str input
+vertex N21.in0
+    attr optype str add.in0
+vertex N41.out0
+    attr optype str input.out0
+vertex N36
+    attr optype str add
+vertex N5
+    attr optype str input
+vertex N3.out0
+    attr optype str input.out0
+vertex N12
+    attr optype str mul
+vertex N20.out0
+    attr optype str add.out0
+vertex N13.out0
+    attr optype str mul.out0
+vertex N10.out0
+    attr optype str mul.out0
+vertex N11.out0
+    attr optype str mul.out0
+vertex N18
+    attr optype str add
+vertex N15
+    attr optype str mul
+vertex N10.in1
+    attr optype str mul.in1
+vertex N9.in1
+    attr optype str mul.in1
+vertex N9.in0
+    attr optype str mul.in0
+vertex N10
+    attr optype str mul
+vertex N36.out0
+    attr optype str add.out0
+vertex N8
+    attr optype str mul
+vertex N9
+    attr optype str mul
+vertex N19.in0
+    attr optype str add.in0
+vertex N36.in0
+    attr optype str add.in0
+vertex N47
+    attr optype str input
+vertex N0.out0
+    attr optype str input.out0
+vertex N13
+    attr optype str mul
+vertex N12.in1
+    attr optype str mul.in1
+vertex N20.in1
+    attr optype str add.in1
+vertex N21.in1
+    attr optype str add.in1
+vertex N39.out0
+    attr optype str output.out0
+vertex N21.out0
+    attr optype str add.out0
+vertex N42
+    attr optype str input
+vertex N46
+    attr optype str input
+vertex N17.out0
+    attr optype str add.out0
+vertex N47.out0
+    attr optype str input.out0
+vertex N17.in0
+    attr optype str add.in0
+vertex N5.out0
+    attr optype str input.out0
+vertex N8.in1
+    attr optype str mul.in1
+vertex N3
+    attr optype str input
+vertex N43
+    attr optype str input
+vertex N2.out0
+    attr optype str input.out0
+vertex N1.out0
+    attr optype str input.out0
+vertex N2
+    attr optype str input
+vertex N17
+    attr optype str add
+vertex N20
+    attr optype str add
+vertex N16.in1
+    attr optype str add.in1
+vertex N14.in1
+    attr optype str mul.in1
+vertex N7
+    attr optype str input
+vertex N4
+    attr optype str input
+vertex N7.out0
+    attr optype str input.out0
+vertex N9.out0
+    attr optype str mul.out0
+vertex N15.in0
+    attr optype str mul.in0
+vertex N42.out0
+    attr optype str input.out0
+vertex N46.out0
+    attr optype str input.out0
+vertex N18.in0
+    attr optype str add.in0
+vertex N13.in0
+    attr optype str mul.in0
+vertex N16.out0
+    attr optype str add.out0
+vertex N19
+    attr optype str add
+vertex N11
+    attr optype str mul
+vertex N43.out0
+    attr optype str input.out0
+vertex N13.in1
+    attr optype str mul.in1
+vertex N39.in0
+    attr optype str output.in0
+vertex N1
+    attr optype str input
+vertex N16
+    attr optype str add
+vertex N11.in1
+    attr optype str mul.in1
+vertex N6
+    attr optype str input
+vertex N44.out0
+    attr optype str input.out0
+vertex N15.in1
+    attr optype str mul.in1
+vertex N16.in0
+    attr optype str add.in0
+vertex N6.out0
+    attr optype str input.out0
+vertex N8.out0
+    attr optype str mul.out0
+vertex N12.out0
+    attr optype str mul.out0
+vertex N14.in0
+    attr optype str mul.in0
+vertex N20.in0
+    attr optype str add.in0
+vertex N45.out0
+    attr optype str input.out0
+vertex N15.out0
+    attr optype str mul.out0
+vertex N45
+    attr optype str input
+vertex N40.out0
+    attr optype str input.out0
+vertex N18.in1
+    attr optype str add.in1
+vertex N21
+    attr optype str add
+vertex N40
+    attr optype str input
+vertex N10.in0
+    attr optype str mul.in0
+vertex N36.in1
+    attr optype str add.in1
+vertex N18.out0
+    attr optype str add.out0
+edge N0.out0 N8.in0
+edge N1.out0 N9.in0
+edge N2.out0 N10.in0
+edge N3.out0 N11.in0
+edge N4.out0 N12.in0
+edge N5.out0 N13.in0
+edge N6.out0 N14.in0
+edge N7.out0 N15.in0
+edge N40.out0 N8.in1
+edge N41.out0 N9.in1
+edge N42.out0 N10.in1
+edge N43.out0 N11.in1
+edge N44.out0 N12.in1
+edge N45.out0 N13.in1
+edge N46.out0 N14.in1
+edge N47.out0 N15.in1
+edge N8.out0 N16.in0
+edge N9.out0 N16.in1
+edge N10.out0 N17.in0
+edge N11.out0 N17.in1
+edge N12.out0 N18.in0
+edge N13.out0 N18.in1
+edge N14.out0 N19.in0
+edge N15.out0 N19.in1
+edge N16.out0 N20.in0
+edge N17.out0 N20.in1
+edge N18.out0 N21.in0
+edge N19.out0 N21.in1
+edge N20.out0 N36.in0
+edge N21.out0 N36.in1
+edge N36.out0 N39.in0
+edge N14 N14.out0
+edge N19.in1 N19
+edge N11.in0 N11
+edge N8.in0 N8
+edge N17.in1 N17
+edge N19 N19.out0
+edge N4 N4.out0
+edge N12.in0 N12
+edge N21.in0 N21
+edge N41 N41.out0
+edge N3 N3.out0
+edge N20 N20.out0
+edge N13 N13.out0
+edge N10 N10.out0
+edge N11 N11.out0
+edge N10.in1 N10
+edge N9.in1 N9
+edge N9.in0 N9
+edge N36 N36.out0
+edge N19.in0 N19
+edge N36.in0 N36
+edge N0 N0.out0
+edge N12.in1 N12
+edge N20.in1 N20
+edge N21.in1 N21
+edge N39 N39.out0
+edge N21 N21.out0
+edge N17 N17.out0
+edge N47 N47.out0
+edge N17.in0 N17
+edge N5 N5.out0
+edge N8.in1 N8
+edge N2 N2.out0
+edge N1 N1.out0
+edge N16.in1 N16
+edge N14.in1 N14
+edge N7 N7.out0
+edge N9 N9.out0
+edge N15.in0 N15
+edge N42 N42.out0
+edge N46 N46.out0
+edge N18.in0 N18
+edge N13.in0 N13
+edge N16 N16.out0
+edge N43 N43.out0
+edge N13.in1 N13
+edge N39.in0 N39
+edge N11.in1 N11
+edge N44 N44.out0
+edge N15.in1 N15
+edge N16.in0 N16
+edge N6 N6.out0
+edge N8 N8.out0
+edge N12 N12.out0
+edge N14.in0 N14
+edge N20.in0 N20
+edge N45 N45.out0
+edge N15 N15.out0
+edge N40 N40.out0
+edge N18.in1 N18
+edge N10.in0 N10
+edge N36.in1 N36
+edge N18 N18.out0

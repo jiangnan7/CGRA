@@ -1,0 +1,24 @@
+mul3 MUL ALU
+output21 OUTPUT
+load2 INPUT
+mul11 MUL ALU
+load5 INPUT
+add22 ADD ALU
+mul19 MUL ALU
+const23 INPUT
+const13 INPUT
+mul0 MUL ALU
+output8 OUTPUT
+const10 INPUT
+mul15 MUL ALU
+mul12 MUL ALU
+load14 INPUT
+const4 INPUT
+mul6 MUL ALU
+add20 ADD ALU
+const1 INPUT
+load18 INPUT
+mul16 MUL ALU
+const17 INPUT
+add7 ADD ALU
+add9 ADD ALU
