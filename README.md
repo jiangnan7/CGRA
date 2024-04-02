@@ -69,8 +69,4 @@ To test the mapping performance on the new architecture, you need to modify the 
 
 
 ### Physical Implemantation
-We conduct logic synthesis using Synopsys Design Compiler (DC) and physical implementation using IC Compiler with the netlist produced by DC and constraints as inputs.
-
-- 4X6 CGRA
-
-![4X6 CGRA](./figure/4X6CGRA.png)
+We conduct logic synthesis using Synopsys Design Compiler (DC) and physical implementation using IC Compiler with the netlist produced by DC and constraints as inputs. (./figure/4X6CGRA.png)
